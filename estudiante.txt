@@ -1,0 +1,8 @@
+Nombre: Miguel Angel
+Apellidos: Gonzalez Vegacruz 
+Edad: 19
+Carrera: Economia
+Nombre: Hola Ola
+Apellidos: Adios Mano 
+Edad: 20
+Carrera: Si
